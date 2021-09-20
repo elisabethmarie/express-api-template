@@ -19,8 +19,13 @@ by: https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgre
 ### Testing
 
 `mocha` - test runner
+
 `chai` - used to make assertions
+
 `nyc` - collect test coverage report
+
 `sinon-chai` - extends chai’s assertions
+
 `supertest` - used to make HTTP calls to our API endpoints
+
 `coveralls` - for uploading test coverage to coveralls.io
