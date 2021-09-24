@@ -6,6 +6,10 @@ by: https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgre
 
 [![Coverage Status](https://coveralls.io/repos/github/elisabethmarie/express-api-template/badge.svg?branch=main)](https://coveralls.io/github/elisabethmarie/express-api-template?branch=main)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/b944035b8cd2f9de2692/maintainability)](https://codeclimate.com/github/elisabethmarie/express-api-template/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b944035b8cd2f9de2692/test_coverage)](https://codeclimate.com/github/elisabethmarie/express-api-template/test_coverage)
+
 `@babel/cli` - A required install for using `babel`. It allows the use of Babel from the terminal and is available as `./node_modules/.bin/babel`.
 
 `@babel/core` - Core Babel functionality. This is a required installation.
